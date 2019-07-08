@@ -1,10 +1,4 @@
-//
-//  ApiclientViewController.swift
-//  json练习
-//
-//  Created by 方瑾 on 2019/7/8.
-//  Copyright © 2019 Houkin. All rights reserved.
-//
+
 
 import Foundation
 
